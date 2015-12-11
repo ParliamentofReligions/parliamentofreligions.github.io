@@ -1,0 +1,920 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+  <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+    <link href="http://www.parliamentofreligions.org/sites/all/themes/pwr/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+    <link href="/node/3463" rel="shortlink" />
+    <link href="/parliament/salt-lake-2015/schedule" rel="canonical" />
+    <meta content="Drupal 7 (http://drupal.org)" name="Generator" />
+    <title>Salt Lake 2015: Schedule | Parliament of the World&#39;s Religions</title>
+    <meta content="width" name="MobileOptimized" />
+    <meta content="true" name="HandheldFriendly" />
+    <meta content="width=device-width" name="viewport" />
+    <meta content="on" http-equiv="cleartype" />
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:400,400italic,600" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+@import url("http://www.parliamentofreligions.org/modules/system/system.base.css?nyx4rb");
+@import url("http://www.parliamentofreligions.org/modules/system/system.messages.css?nyx4rb");
+@import url("http://www.parliamentofreligions.org/modules/system/system.theme.css?nyx4rb");    </style>
+    <style type="text/css">
+@import url("http://www.parliamentofreligions.org/modules/comment/comment.css?nyx4rb");
+@import url("http://www.parliamentofreligions.org/modules/field/theme/field.css?nyx4rb");
+@import url("http://www.parliamentofreligions.org/sites/all/modules/logintoboggan/logintoboggan.css?nyx4rb");
+@import url("http://www.parliamentofreligions.org/modules/node/node.css?nyx4rb");
+@import url("http://www.parliamentofreligions.org/sites/all/modules/rpx/rpx_widgets.css?nyx4rb");
+@import url("http://www.parliamentofreligions.org/modules/search/search.css?nyx4rb");
+@import url("http://www.parliamentofreligions.org/modules/user/user.css?nyx4rb");
+@import url("http://www.parliamentofreligions.org/sites/all/modules/video_filter/video_filter.css?nyx4rb");
+@import url("http://www.parliamentofreligions.org/sites/all/modules/youtube/css/youtube.css?nyx4rb");
+@import url("http://www.parliamentofreligions.org/modules/forum/forum.css?nyx4rb");
+@import url("http://www.parliamentofreligions.org/sites/all/modules/views/css/views.css?nyx4rb");
+@import url("http://www.parliamentofreligions.org/sites/all/modules/ckeditor/css/ckeditor.css?nyx4rb");    </style>
+    <style type="text/css">
+@import url("http://www.parliamentofreligions.org/sites/all/modules/colorbox/styles/default/colorbox_style.css?nyx4rb");
+@import url("http://www.parliamentofreligions.org/sites/all/modules/ctools/css/ctools.css?nyx4rb");    </style>
+    <style type="text/css">
+@import url("http://www.parliamentofreligions.org/sites/all/themes/pwr/css/bootstrap.min.css?nyx4rb");
+@import url("http://www.parliamentofreligions.org/sites/all/themes/pwr/css/ionicons.min.css?nyx4rb");
+@import url("http://www.parliamentofreligions.org/sites/all/themes/pwr/css/theme.css?nyx4rb");
+@import url("http://www.parliamentofreligions.org/sites/all/themes/pwr/css/perfect-scrollbar.css?nyx4rb");    </style>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://www.parliamentofreligions.org/sites/default/files//js/js_MpKfe1sTh5JIVGCZ17DsAuT1rqAC38MLLlkjqjQ1X_k.js"></script><script src="http://www.parliamentofreligions.org/sites/default/files//js/js__nSgx_GfdcetKnLamisWPlOyHJrpZ_NiOhXcq2OyN7o.js"></script><script src="http://www.parliamentofreligions.org/sites/default/files//js/js_9Y1_ReCda6Fp2SnQgiaqL2GJmyM3t-RSc0qaQCWRGnU.js"></script><script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-38673741-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script><script src="http://www.parliamentofreligions.org/sites/default/files//js/js_ZwtHh_UtMhEyIZ7P23uU_tO_tZHXgPG1rk11b_m8s9Y.js"></script><script src="http://www.parliamentofreligions.org/sites/default/files//js/js_hI2mf0elUD6aEy2wb7rVfe2G92Sm0SAsP6p4QSw-wuU.js"></script><script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"pwr","theme_token":"MNKn4dPDBb-8KRUJujA0YD1yl-RyeFkeUZSQ6rRPf9c","jquery_version":"1.10","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery.form\/3\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/custom\/pwr_subscribe\/js\/pwr_subscribe.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"misc\/progress.js":1,"sites\/all\/themes\/pwr\/js\/bootstrap.min.js":1,"sites\/all\/themes\/pwr\/js\/jquery.cookie.js":1,"sites\/all\/themes\/pwr\/js\/jquery.validate.js":1,"sites\/all\/themes\/pwr\/js\/validationson.js":1,"sites\/all\/themes\/pwr\/js\/perfect-scrollbar.js":1,"sites\/all\/themes\/pwr\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/rpx\/rpx_widgets.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/video_filter\/video_filter.css":1,"sites\/all\/modules\/youtube\/css\/youtube.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/zen\/system.menus.css":1,"sites\/all\/themes\/pwr\/css\/bootstrap.min.css":1,"sites\/all\/themes\/pwr\/css\/ionicons.min.css":1,"sites\/all\/themes\/pwr\/css\/theme.css":1,"sites\/all\/themes\/pwr\/css\/perfect-scrollbar.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"video_filter":{"url":{"ckeditor":"\/video_filter\/dashboard\/ckeditor"},"modulepath":"sites\/all\/modules\/video_filter"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/":true,"\/system\/ajax":true,"\/parliament\/salt-lake-2015\/schedule":true},"ajax":{"edit-subscribe-submit":{"callback":"pwr_subscribe_subscribe_form_submit","wrapper":"pwr_subscribe_subscribe_form_body","event":"mousedown","keypress":true,"prevent":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Subscribe"}}}});</script><script src="/sites/all/themes/pwr/vendor/malsup.github.io/jquery.cycle2.min.js"></script><script src="/sites/all/themes/pwr/vendor/malsup.github.io/jquery.cycle2.carousel.min.js"></script><!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+  <body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-3463 node-type-page section-parliament">
+    <p>
+      <a class="element-invisible element-focusable" href="#main-menu">Jump to navigation</a></p>
+    <header>
+      <nav>
+        <div class="container">
+          <div class="navbar" role="navigation">
+            <div class="row">
+              <!-- Brand and toggle get grouped for better mobile display -->
+              <div class="navbar-header col-sm-6 col-md-7 col-lg-8">
+                <button class="navbar-toggle collapsed" data-target="#navbar-collapse-1" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span></button><a class="navbar-brand" href="http://www.parliamentofreligions.org"><img alt="Parliament of the World's Religions" height="106" src="/sites/all/themes/pwr/logo.png" width="500" /></a></div>
+              <!-- <div class="col-md-2 col-lg-4 hidden-xs hidden-sm ads-google">
+                             <a href=""><img src="http://www.parliamentofreligions.org/sites/all/themes/pwr/images/header_google_ad.jpg" class="img-responsive" alt="google_ad"> </a>
+                     </div> --><!-- Collect the nav links, forms, and other content for toggling -->
+              <div class="col-sm-6 col-md-5 col-lg-4">
+                <div class="nav-sup clearfix collapse navbar-collapse navbar-right" id="navbar-collapse-2">
+                  <ul class="nav navbar-nav">
+                    <li>
+                      <a href="http://www.parliamentofreligions.org">Home</a></li>
+                    <li>
+                      <a href="http://www.parliamentofreligions.org/about/mission">About</a></li>
+                    <li>
+                      <a href="http://www.parliamentofreligions.org/contact">Contact</a></li>
+                    <li>
+                      <a href="http://www.parliamentofreligions.org/user/register">Sign Up</a></li>
+                    <li>
+                      <a data-content="Log in to Comment, join the Movement, and Connect with Others." data-original-title="Why you should login:" data-placement="bottom" data-trigger="hover" href="http://www.parliamentofreligions.org/user/login" id="popoverData" rel="popover">Login</a></li>
+                  </ul>
+                  <form accept-charset="UTF-8" action="/" class="navbar-form" id="pwr-search-search-form" method="post">
+                    <div>
+                      <div class="input-group">
+                        <input class="form-submit" id="edit-submit" name="op" type="submit" value="Search" />
+                        <div class="form-item form-type-textfield form-item-pwr-search-search-form">
+                          <input class="form-control form-text" id="edit-pwr-search-search-form--2" maxlength="128" name="pwr_search_search_form" size="60" type="text" value="" /></div>
+                        <span class="input-group-btn"><button aria-expanded="false" class="btn btn-default filter" data-toggle="dropdown" type="button"></button></span>
+                        <ul class="dropdown-menu" role="menu">
+                          <li class="option-1">
+                            <span class="input-group-btn"><label><input checked="checked" class="form-radio" id="edit-search-type-node" name="search_type" type="radio" value="node" />Content</label></span></li>
+                          <li class="option-2">
+                            <span class="input-group-btn"><label><input class="form-radio" id="edit-search-type-user" name="search_type" type="radio" value="user" />Profile</label></span></li>
+                        </ul>
+                        <span class="input-group-btn"><button class="btn btn-default" type="submit"></button></span></div>
+                      <div class="form-radios" id="edit-search-type">
+                        <div class="form-item form-type-radio form-item-search-type">
+                          <label class="option" for="edit-search-type-node">Content </label></div>
+                        <div class="form-item form-type-radio form-item-search-type">
+                          <label class="option" for="edit-search-type-user">Profile </label></div>
+                      </div>
+                      <input name="form_build_id" type="hidden" value="form-PCbXyUt_3hZsnJ23gh-6bq5pQ9qWgqL300d1rV5vmrc" /> <input name="form_id" type="hidden" value="pwr_search_search_form" />
+                      <div class="form-actions form-wrapper" id="edit-actions">
+                        &nbsp;</div>
+                    </div>
+                  </form>
+                </div>
+              </div>
+              <!-- /.navbar-collapse --></div>
+            <!-- /.container --></div>
+        </div>
+        <div class="seperator">
+          &nbsp;</div>
+        <div class="navbar-default collapse navbar-collapse affix-top" data-offset-top="100" data-spy="affix" id="navbar-collapse-1">
+          <div class="container">
+            <ul class="nav navbar-nav nav-main hidden-xs">
+              <li class="hidden-sm hidden-xs">
+                &nbsp;</li>
+              <li class="dropdown">
+                <a class="dropdown-toggle " href="http://www.parliamentofreligions.org/node/3459">2015 PARLIAMENT</a>
+                <ul class="dropdown-menu" role="menu">
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3463">Schedule</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3460">Major Speakers</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3464">Exhibit and Sponsor</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3461">Declarations</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3502">Stream the Parliament</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3505">Program Changes</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3465">Housing</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3500">Travel</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3462">Program and App</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3472">Support Special Constituencies</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3470">Media</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3471">Volunteer</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3473">Pre-Parliament Events</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3474">Compassion at the 2015 Parliament</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3466">Inaugural Women&#39;s Assembly</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3467">Major Speakers of the Women&#39;s Initiative</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3468">Indigenous Peoples&#39; Program</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a class="dropdown-toggle  " href="http://www.parliamentofreligions.org">OUR HISTORY AND FUTURE</a>
+                <ul class="dropdown-menu" role="menu">
+                  <li>
+                    <a href="http://www.parliamentofreligions.org//content/parliament-2009">Melbourne 2009</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3490">Barcelona 2004</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3475">Cape Town 1999</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3409">Chicago 1993</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3457">Chicago 1893</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3092">Paul Carus Award</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a class="dropdown-toggle " href="http://www.parliamentofreligions.org//programs">OUR PROGRAMS</a>
+                <ul class="dropdown-menu" role="menu">
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/climateaction">Interfaith Climate Action</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/programs/womens-task-force-14">Womens Task Force</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/programs/sacred-space-15">Sacred Space</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/programs/faiths-against-hate-18">Faiths Against Hate</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/programs/the-ambassador-program-22">The Ambassador Program</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/programs/educating-religious-leaders-23">Educating Religious Leaders</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a class="dropdown-toggle  " href="http://www.parliamentofreligions.org">RESOURCES</a>
+                <ul class="dropdown-menu" role="menu">
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/videos">Videos</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org//articles">Articles</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/organizations">Interfaith Directory</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org//publication">Publications and Reports</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a class="dropdown-toggle  " href="http://www.parliamentofreligions.org">GET INVOLVED</a>
+                <ul class="dropdown-menu" role="menu">
+                  <li>
+                    <a href="http://www.parliamentofreligions.org//content/volunteer-parliament">Volunteer with the Parliament</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org//content/ambassador-program">The Ambassador Program</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org//content/employment-opportunities">Employment Opportunities</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/civicrm/contribute/transact?reset=1&amp;id=5?reset=1&amp;id=5">Memberships</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3025">Sign the Solidarity Pledge</a></li>
+                </ul>
+              </li>
+              <li>
+                <a href="http://www.parliamentofreligions.org//blog">BLOG</a></li>
+              <li class="dropdown">
+                <a class="dropdown-toggle " href="http://www.parliamentofreligions.org">MAJOR SPONSORS</a>
+                <ul class="dropdown-menu" role="menu">
+                  <li>
+                    <a href="http://www.claremontlincoln.org">Claremont Lincoln University</a></li>
+                  <li>
+                    <a href="http://www.kaiciid.org/">KAICIID</a></li>
+                </ul>
+              </li>
+            </ul>
+            <ul class="nav navbar-nav nav-main visible-xs">
+              <li class="hidden-sm hidden-xs">
+                &nbsp;</li>
+              <li class="dropdown">
+                <a class="dropdown-toggle " data-toggle="dropdown" href="http://www.parliamentofreligions.org/">2015 PARLIAMENT</a>
+                <ul class="dropdown-menu" role="menu">
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3463">Schedule</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3460">Major Speakers</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3464">Exhibit and Sponsor</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3461">Declarations</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3502">Stream the Parliament</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3505">Program Changes</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3465">Housing</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3500">Travel</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3462">Program and App</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3472">Support Special Constituencies</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3470">Media</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3471">Volunteer</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3473">Pre-Parliament Events</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3474">Compassion at the 2015 Parliament</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3466">Inaugural Women&#39;s Assembly</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3467">Major Speakers of the Women&#39;s Initiative</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3468">Indigenous Peoples&#39; Program</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a class="dropdown-toggle  " data-toggle="dropdown" href="http://www.parliamentofreligions.org">OUR HISTORY AND FUTURE</a>
+                <ul class="dropdown-menu" role="menu">
+                  <li>
+                    <a href="http://www.parliamentofreligions.org//content/parliament-2009">Melbourne 2009</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3490">Barcelona 2004</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3475">Cape Town 1999</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3409">Chicago 1993</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3457">Chicago 1893</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3092">Paul Carus Award</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a class="dropdown-toggle " data-toggle="dropdown" href="http://www.parliamentofreligions.org/">OUR PROGRAMS</a>
+                <ul class="dropdown-menu" role="menu">
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/climateaction">Interfaith Climate Action</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/programs/womens-task-force-14">Womens Task Force</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/programs/sacred-space-15">Sacred Space</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/programs/faiths-against-hate-18">Faiths Against Hate</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/programs/the-ambassador-program-22">The Ambassador Program</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/programs/educating-religious-leaders-23">Educating Religious Leaders</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a class="dropdown-toggle  " data-toggle="dropdown" href="http://www.parliamentofreligions.org">RESOURCES</a>
+                <ul class="dropdown-menu" role="menu">
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/videos">Videos</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org//articles">Articles</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/organizations">Interfaith Directory</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org//publication">Publications and Reports</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a class="dropdown-toggle  " data-toggle="dropdown" href="http://www.parliamentofreligions.org">GET INVOLVED</a>
+                <ul class="dropdown-menu" role="menu">
+                  <li>
+                    <a href="http://www.parliamentofreligions.org//content/volunteer-parliament">Volunteer with the Parliament</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org//content/ambassador-program">The Ambassador Program</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org//content/employment-opportunities">Employment Opportunities</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/civicrm/contribute/transact?reset=1&amp;id=5?reset=1&amp;id=5">Memberships</a></li>
+                  <li>
+                    <a href="http://www.parliamentofreligions.org/node/3025">Sign the Solidarity Pledge</a></li>
+                </ul>
+              </li>
+              <li>
+                <a href="http://www.parliamentofreligions.org//blog">BLOG</a></li>
+              <li class="dropdown">
+                <a class="dropdown-toggle " data-toggle="dropdown" href="">MAJOR SPONSORS</a>
+                <ul class="dropdown-menu" role="menu">
+                  <li>
+                    <a href="http://www.claremontlincoln.org">Claremont Lincoln University</a></li>
+                  <li>
+                    <a href="http://www.kaiciid.org/">KAICIID</a></li>
+                </ul>
+              </li>
+            </ul>
+            <ul class="nav navbar-nav visible-xs nav-sup">
+              <li>
+                <a href="http://www.parliamentofreligions.org/mission">About</a></li>
+              <li>
+                <a href="http://www.parliamentofreligions.org/contact">Contact</a></li>
+              <li>
+                <a href="http://www.parliamentofreligions.org/user/register">Sign Up</a></li>
+              <li>
+                <a href="http://www.parliamentofreligions.org/user/login">Login</a></li>
+            </ul>
+            <a class="pull-right btn navbar-btn btn-sm btn-info" href="http://www.parliamentofreligions.org/civicrm/contribute/transact?reset=1&amp;id=1">DONATE</a></div>
+        </div>
+      </nav>
+    </header>
+    <section class="inner-page">
+      <div class="pg-bg" style="background-color:#b2cfe8">
+        <div class="container">
+          <div class="content clearfix">
+            <div class="col-sm-12">
+              <!--<a id="main-content"></a>-->
+              <h3 class="sec-title">
+                Salt Lake 2015: Schedule</h3>
+              <hr />
+            </div>
+            <div class="row">
+              <div class="col-sm-4 col-md-3 nav-vert ab">
+                <section class="region region-sidebar-first column sidebar">
+                  <div class="block block-menu first last odd" id="block-menu-salt-lake-2015" role="navigation">
+                    <ul class="menu">
+                      <li class="menu__item is-leaf first leaf">
+                        <a class="menu__link" href="http://www.parliamentofreligions.org/livestream" title="">Stream the Parliament</a></li>
+                      <li class="menu__item is-leaf leaf">
+                        <a class="menu__link" href="/parliament/salt-lake-2015/program-changes" title="">Program Changes</a></li>
+                      <li class="menu__item is-leaf leaf">
+                        <a class="menu__link" href="/parliament/salt-lake-2015">General Information</a></li>
+                      <li class="menu__item is-leaf leaf">
+                        <a class="menu__link" href="/parliament/salt-lake-2015/major-speakers">Major Speakers</a></li>
+                      <li class="menu__item is-leaf leaf">
+                        <a class="menu__link" href="/parliament/salt-lake-2015/declarations">Declarations</a></li>
+                      <li class="menu__item is-leaf leaf">
+                        <a class="menu__link" href="/parliament/salt-lake-2015/program-and-app">Program and App</a></li>
+                      <li class="menu__item is-active-trail is-leaf leaf active-trail">
+                        <a class="menu__link is-active-trail active-trail active" href="/parliament/salt-lake-2015/schedule">Schedule</a></li>
+                      <li class="menu__item is-leaf leaf">
+                        <a class="menu__link" href="/parliament/salt-lake-2015/exhibit-and-sponsor">Exhibit and Sponsor</a></li>
+                      <li class="menu__item is-leaf leaf">
+                        <a class="menu__link" href="/parliament/salt-lake-2015/housing">Housing</a></li>
+                      <li class="menu__item is-leaf leaf">
+                        <a class="menu__link" href="/parliament/salt-lake-2015/travel" title="">Travel</a></li>
+                      <li class="menu__item is-leaf leaf">
+                        <a class="menu__link" href="/parliament/salt-lake-2015/inaugural-womens-assembly">Inaugural Women&#39;s Assembly</a></li>
+                      <li class="menu__item is-leaf leaf">
+                        <a class="menu__link" href="/parliament/salt-lake-2015/major-speakers-womens-initiative">Major Speakers of the Women&#39;s Initiative</a></li>
+                      <li class="menu__item is-leaf leaf">
+                        <a class="menu__link" href="/parliament/salt-lake-2015/indigenous-peoples-program">Indigenous Peoples&#39; Program</a></li>
+                      <li class="menu__item is-leaf leaf">
+                        <a class="menu__link" href="/parliament/salt-lake-2015/awards">Awards</a></li>
+                      <li class="menu__item is-leaf leaf">
+                        <a class="menu__link" href="/parliament/salt-lake-2015/media-kit">Media Kit</a></li>
+                      <li class="menu__item is-leaf leaf">
+                        <a class="menu__link" href="/parliament/salt-lake-2015/volunteer">Volunteer</a></li>
+                      <li class="menu__item is-leaf leaf">
+                        <a class="menu__link" href="/parliament/salt-lake-2015/support-special-constituencies">Support Special Constituencies</a></li>
+                      <li class="menu__item is-leaf leaf">
+                        <a class="menu__link" href="/parliament/salt-lake-2015/2015-pre-parliament">2015 Pre-Parliament</a></li>
+                      <li class="menu__item is-leaf last leaf">
+                        <a class="menu__link" href="/parliament/salt-lake-2015/compassion-parliament">Compassion at the Parliament</a></li>
+                    </ul>
+                  </div>
+                </section>
+              </div>
+              <div class="col-sm-8 col-md-9">
+                <div class="col-sm-12">
+                  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                    <div class="field-items">
+                      <div class="field-item even" property="content:encoded">
+                        <h4 class="rtecenter">
+                          <span style="color:rgb(0, 0, 255)">10,000 People. 80 Nations. 50&nbsp;Faiths</span></h4>
+                        <p>
+                          <img alt="2015 Parliament" src="/sites/default/files//saltlake2015_header.png" style="display:block; height:195px; margin-left:auto; margin-right:auto; vertical-align:middle; width:500px" /></p>
+                        <p class="rtecenter">
+                          <img alt="Embedded Image" src="/sites/default/files//saltlake2015_subheader.png" style="height:67px; width:475px" /></p>
+                        <div dir="ltr" style="line-height: 20.7999992370605px;">
+                          <h4 class="rtecenter">
+                            <strong><a href="https://www.parliamentofreligions.org/civicrm/event/register?reset=1&amp;id=16">Register</a>&nbsp;</strong>&bull;<strong>&nbsp;<a href="/content/salt-lake-2015?p=others&amp;order=3">Exhibit</a>&nbsp;</strong>&bull;&nbsp;<strong><a href="/content/salt-lake-2015?p=others&amp;order=3">Sponsor</a></strong></h4>
+                        </div>
+                        <h2>
+                          <strong>2015 Parliament Schedule </strong></h2>
+                        <hr />
+                        <h4>
+                          <span style="font-size:18.6666660308838px">Salt Palace Convention Center</span></h4>
+                        <p>
+                          The 2015 Parliament begins on <strong>Thursday, October 15</strong><strong>th</strong> with the full-day <strong>Inaugural Women&rsquo;s Assembly </strong>at 9:00 a.m. and the opening of registration. The <strong>Opening Plenary Celebration</strong> held in evening will kick off the 2015 Parliament!</p>
+                        <p>
+                          <strong>Religious and Spiritual Observance</strong>s will be held on Friday, Saturday, Sunday and Monday morning from 7:00 a.m. - 8:00 a.m. and will continue throughout the days in faith spaces curated within the Salt Palace Convention Center.</p>
+                        <p>
+                          <strong>Daily workshops</strong> are scheduled in 90 minute modules across parallel morning and afternoon sessions featuring prominent speakers, panels, arts and creative expressions, lectures, films, interactive trainings, and more. <a href="https://event.crowdcompass.com/2015parliament/custom-list/Schedule?title=Sessions">See the Full Schedule of Workshops</a>.</p>
+                        <p>
+                          <strong>Plenary Sessions</strong> will be held at least once each day for all attendees focusing on the prime subjects and celebrated constituencies of the 2015 Parliament. Themes including climate and environmental issues, war, violence and hate speech, and economic inequity will be addressed by such keynote speakers as His Holiness the Dalai Lama, and others to be announced. Individual commitments of compassion, peace, justice and sustainability will be featured in these events. Dedicated plenaries for all attendees will advocate the participation, perspectives, leadership and experience of women, youth, and indigenous peoples in the interfaith movement.</p>
+                        <p>
+                          Tickets are available for the <strong>Golden Banquet*</strong> featuring His Holiness the Dalai Lama and Dr. Karen Armstrong, will be <strong>Sunday</strong> from 11:30-1:30. The <strong>Sacred Music</strong> <strong>Evening</strong> will be on Sunday at 7:00 p.m. and will be in the Morman Tabernacle, close to the Salt Palace.</p>
+                        <p>
+                          The <strong>Closing Plenary</strong> will be <strong>Monday, </strong><strong>October 19</strong><strong>th</strong> at 3:30 p.m. - a culmination of the relationships, inspiration, tools and commitments to advance peace, justice and sustainability the interfaith movement fosters in the world.</p>
+                        <p>
+                          Each day from 12:00 p.m. - 2:00 p.m., <strong>Langar, </strong>a vegetarian meal that brings people together around sharing the meal, will be shared at no expense to Parliament attendees as a gift of the Sikh tradition. Spaces for &ldquo;meet-ups&rdquo;, connections and conversations will be accessible throughout the convention center. In addition to an exhibit hall of displays and booths, film screenings will be held continuously in an adjacent theatre. After-hours events and activities are being hosted and planned by Salt Lake area university students. Parliament excursions into the Salt Lake and surrounding region may be included in the 2015 Parliament program for no or additional costs.</p>
+                        <p>
+                          <a href="https://docs.google.com/drawings/d/1UIXpwjq5SnWyFZrVLYYzqkLKKGsus8cclFIKrfHenLM/pub?w=985&amp;h=970">TENTATIVE SCHEDULE: (Download Here)</a></p>
+                        <hr />
+                        <h4>
+                          THURSDAY &ndash; October 15th</h4>
+                        <table border="0" cellpadding="1" cellspacing="1" style="width:100%">
+                          <tbody>
+                            <tr>
+                              <td style="width:300px">
+                                9:00 a.m. &ndash; 5:00 a.m.</td>
+                              <td style="width:1433px">
+                                <strong>WOMEN&rsquo;S ASSEMBLY (Details to come)</strong></td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                6:30 p.m.</td>
+                              <td style="width:1433px">
+                                <p>
+                                  <strong>OPENING EVENT &amp; Processional</strong><br />
+                                  <em><span style="font-size:12px">Reception following plenary to 9:45 p.m. for Speakers, Board members, officials</span></em></p>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        <hr />
+                        <h4>
+                          FRIDAY &ndash; October 16th</h4>
+                        <table border="0" cellpadding="1" cellspacing="1" style="width:100%">
+                          <tbody>
+                            <tr>
+                              <td style="width:300px">
+                                7:00 a.m. &ndash;&nbsp;8:00 p.m.&nbsp;</td>
+                              <td style="width:1433px">
+                                Observances</td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                8:30 a.m. &ndash;&nbsp;10:00 a.m.</td>
+                              <td style="width:1433px">
+                                Workshops (1)</td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                10:30 a.m. &ndash;&nbsp;12:00 p.m.</td>
+                              <td style="width:1503px">
+                                <p>
+                                  <strong>PLENARY 1 WOMEN</strong><br />
+                                  <em><span style="font-size:12px">Women&rsquo;s Slient Walk for Peace (12:00 p.m. &ndash;&nbsp;1:30 p.m.)<br />
+                                  Parliarment Choir Practice for Cantata (1:15 p.m. &ndash;&nbsp;2:00 p.m.)</span></em></p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                12:00 p.m. &ndash;&nbsp;2:00 p.m.</td>
+                              <td style="width:1433px">
+                                LANGAR</td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                12:15 p.m. &ndash;&nbsp;1:45 p.m.</td>
+                              <td style="width:1433px">
+                                Workshops (2)</td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                2:00 p.m. &ndash;&nbsp;3:30 p.m.</td>
+                              <td style="width:1433px">
+                                Workshops (3)</td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                3:45 p.m. &ndash;&nbsp;5:15 p.m.</td>
+                              <td style="width:1433px">
+                                <p>
+                                  Workshops (4)<br />
+                                  <em><span style="font-size:12px">Reception for Civic Leaders, Charter for Compassion, Mayors, Board (5:15 p.m.&nbsp;&ndash;&nbsp;6:30 p.m.)</span></em></p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                7:00 p.m.</td>
+                              <td style="width:1433px">
+                                <strong>PLENARY 2 EMERGING LEADERS</strong></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        <hr />
+                        <h4>
+                          SATURDAY &ndash; October 17th</h4>
+                        <table border="0" cellpadding="1" cellspacing="1" style="width:100%">
+                          <tbody>
+                            <tr>
+                              <td style="width:300px">
+                                7:00 a.m. &ndash;&nbsp;8:00 a.m.</td>
+                              <td style="width:1433px">
+                                Observances</td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                8:15 a.m. &ndash;&nbsp;9:45 a.m.</td>
+                              <td style="width:1433px">
+                                Workshops (5)</td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                10:00 a.m. &ndash;&nbsp;11:30 a.m.</td>
+                              <td style="width:1433px">
+                                Workshops (6)</td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                12:00 p.m. &ndash;&nbsp;2 p.m.</td>
+                              <td style="width:1433px">
+                                <p>
+                                  LANGAR<br />
+                                  <em><span style="font-size:12px">Practice for the Cantata for the Earth Parliament Choir (1:15 p.m. &ndash;&nbsp;2:00 p.m.)</span></em></p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                11:45 a.m. &ndash;&nbsp;1:15 p.m.</td>
+                              <td style="width:1433px">
+                                Workshops (7)</td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                1:30 p.m. &ndash;&nbsp;3:00 p.m.</td>
+                              <td style="width:1433px">
+                                <strong>PLENARY 3 &ndash;&nbsp;INCOME INEQUALITY/DALAI LAMA</strong></td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                3:30 a.m. &ndash;&nbsp;5:00 p.m.</td>
+                              <td style="width:1433px">
+                                <p>
+                                  Workshops (8)<br />
+                                  <em><span style="font-size:12px">Release of educating Religious Leaders publication reception (5:15 p.m. &ndash;&nbsp;6:30 p.m.)</span></em></p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                7:00 p.m.</td>
+                              <td style="width:1433px">
+                                <strong>PLENARY 4 WAR, VIOLENCE and HATE</strong></td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                9:00 p.m.</td>
+                              <td style="width:1433px">
+                                Community concert &ndash;&nbsp;Danny Wright performing</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        <hr />
+                        <h4>
+                          SUNDAY &ndash; October 18th</h4>
+                        <table border="0" cellpadding="1" cellspacing="1" style="width:100%">
+                          <tbody>
+                            <tr>
+                              <td style="width:300px">
+                                7:00 a.m. &ndash;&nbsp;8:00 a.m.</td>
+                              <td style="width:1433px">
+                                Observances</td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                8:15 a.m. &ndash;&nbsp;9:45 a.m.</td>
+                              <td style="width:1433px">
+                                Workshops (9)</td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                10:00 a.m. &ndash;&nbsp;11:30 a.m.</td>
+                              <td style="width:1433px">
+                                Workshops (10)</td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                11:30 a.m. &ndash;&nbsp;1:30 p.m</td>
+                              <td style="width:1433px">
+                                GOLDEN LUNCHEON</td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                12:00 p.m. &ndash;&nbsp;2:00 p.m.</td>
+                              <td style="width:1433px">
+                                <p>
+                                  LANGAR<br />
+                                  <span style="font-size:12px"><em>Parliament Choir Practice (1:15 p.m. &ndash;&nbsp;2:00 p.m.)</em></span></p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                1:45 p.m. &ndash;&nbsp;3:15 p.m.</td>
+                              <td style="width:1433px">
+                                Workshops (11)</td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                3:30 p.m. &ndash;&nbsp;5:00 p.m.</td>
+                              <td style="width:1433px">
+                                <strong>PLENARY 5 Climate Change</strong></td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                5:15 p.m. &ndash;&nbsp;6:45 p.m.</td>
+                              <td style="width:1433px">
+                                Workshops (12)</td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                6:30 p.m.</td>
+                              <td style="width:1433px">
+                                SACRED MUSIC INGHT &ndash;&nbsp;Tabernacle</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        <hr />
+                        <h4>
+                          MONDAY &ndash; October 19th</h4>
+                        <table border="0" cellpadding="1" cellspacing="1" style="width:100%">
+                          <tbody>
+                            <tr>
+                              <td style="width:300px">
+                                7:00 a.m. &ndash;&nbsp;8:00 a.m.</td>
+                              <td style="width:1433px">
+                                Observances</td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                8:30 a.m. &ndash;&nbsp;10:00 a.m.&nbsp;</td>
+                              <td style="width:1433px">
+                                Workshops (13)</td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                10:30 a.m. &ndash;&nbsp;12:00 p.m.</td>
+                              <td style="width:1433px">
+                                <p>
+                                  <strong>PLENARY 6: INDIGENOUS</strong><br />
+                                  <span style="font-size:12px"><em>Choir Practice (1:15 p.m. &ndash;&nbsp;2:00 p.m.)</em></span></p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                12:00 p.m. &ndash;&nbsp;2:00 p.m.&nbsp;</td>
+                              <td style="width:1433px">
+                                LANGAR</td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                12:15 p.m. 1:45 p.m.</td>
+                              <td style="width:1433px">
+                                Workshops (14)</td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                2:00 p.m. &ndash;&nbsp;3:30 p.m.</td>
+                              <td style="width:1433px">
+                                Workshops (15) <span style="font-size:12px"><em>including the Parliament Choir singing the Cantata for the Earth</em></span></td>
+                            </tr>
+                            <tr>
+                              <td style="width:300px">
+                                3:45 p.m. &ndash;&nbsp;5:15 p.m.</td>
+                              <td style="width:1433px">
+                                <strong>CLOSING PLENARY &ndash;&nbsp;COMISSIONING</strong></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        <hr />
+                        <p>
+                          &nbsp;</p>
+                        <p>
+                          *To attend the Golden Banquet event,&nbsp;<a href="https://www.parliamentofreligions.org/civicrm/event/register?reset=1&amp;id=16">purchase tickets with 2015 Parliament registration</a>&nbsp;or contact us by e-mail or phone.</p>
+                        <p>
+                          **Langar - a meal available to all at varied intervals inbetween 12:00 p.m. -2:00 p.m.</p>
+                        <p>
+                          ***Opportunity to be hosted by various groups in the Salt Lake area (please sign up)</p>
+                        <p>
+                          &nbsp;</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--.include footer file--><!--<section class="donate-bar" style="padding-top: 18px; background-color:#b2cfe8">        
+    <div class="container">
+        <div class="col-sm-12" style="background-color:white">
+            <div class="col-sm-10 text-center">
+                <h3>Your Support Makes a Difference!</h3>
+            </div>
+            <div class="col-sm-2">
+                <a href="" class="btn btn-info btn-block">DONATE</a>
+            </div>
+        </div>
+    </div>
+</section> -->
+    <footer>
+      <section class="footer">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-12 col-md-4 col-lg-3 site-map hidden-xs">
+              <h4 class="footer-title">
+                Quick Links</h4>
+              <ul class="nav col-sm-5">
+                <li>
+                  <a href="http://www.parliamentofreligions.org">Home</a></li>
+                <li>
+                  &nbsp;</li>
+                <li>
+                  <a href="http://www.parliamentofreligions.org//mission">About</a></li>
+                <li>
+                  &nbsp;</li>
+                <li>
+                  <a href="http://www.parliamentofreligions.org/contact">Contact</a></li>
+                <li>
+                  &nbsp;</li>
+                <li>
+                  <a href="http://www.parliamentofreligions.org/user/login">Sign In</a></li>
+                <li>
+                  &nbsp;</li>
+                <li>
+                  <a href="http://www.parliamentofreligions.org/user/register">Sign Up</a></li>
+                <li>
+                  &nbsp;</li>
+                <li>
+                  <a href="http://www.parliamentofreligions.org//civicrm/contribute/transact?reset=1&amp;id=1?reset=1">Donate</a></li>
+              </ul>
+              <ul class="nav col-sm-7">
+                <li>
+                  &nbsp;</li>
+                <li>
+                  <a href="http://www.parliamentofreligions.org//content/employment-opportunities">Jobs</a></li>
+                <li>
+                  &nbsp;</li>
+                <li>
+                  <a href="http://www.parliamentofreligions.org/programs">Our Programs</a></li>
+                <li>
+                  &nbsp;</li>
+                <li>
+                  <a href="http://www.parliamentofreligions.org/blog?field_type_value=1">Blog</a></li>
+              </ul>
+            </div>
+            <div class="col-sm-12 col-md-4 col-lg-6">
+              <div class="copyright">
+                <div class="item logo-footer">
+                  <a href="http://www.parliamentofreligions.org"><img alt="logo_footer" class="img-responsive" src="http://www.parliamentofreligions.org/sites/all/themes/pwr/css/images/logo_footer.png" /> </a></div>
+                <p class="text-center copy">
+                  &copy; Copyright 2015 Parliament of the World&rsquo;s Religions</p>
+                <div class="add-phn">
+                  <div class="col-sm-6">
+                    <p>
+                      70 East Lake Street, Suite 205<br />
+                      Chicago, IL 60601 USA</p>
+                  </div>
+                  <div class="col-sm-6">
+                    <p class="pull-right">
+                      Telephone 312-629-2990<br />
+                      Fax 312-629-2991</p>
+                  </div>
+                </div>
+                <div class="supported">
+                  <p class="brd-title">
+                    Supported By</p>
+                  <a href="http://www.kaiciid.org/" id="supporter-image-1" style="display: none;" target="_blank"><img alt="ic_supported" class="img-responsive" src="http://www.parliamentofreligions.org/sites/default/files//KAICIID%20Logo%20180x180.jpg" /></a><a href="https://www.claremontlincoln.org/" id="supporter-image-2" style="display: none;" target="_blank"><img alt="ic_supported" class="img-responsive" src="http://www.parliamentofreligions.org/sites/default/files//CLU-footer-logo1_4.png" /></a><a href="http://www.visitsaltlake.com/" id="supporter-image-3" style="" target="_blank"><img alt="ic_supported" class="img-responsive" src="http://www.parliamentofreligions.org/sites/default/files//Visit-Sale-Lake%20Supported%20By.jpg" /></a></div>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-4 col-lg-3 subscribe">
+              <!--<form name="subscribe" id="subscribe" action="" enctype="multipart/form-data" method="post">--><!--<h4 class="footer-title">Parliament Newsletter</h4>
+                    <p>Enter Your Email To Subscribe</p>
+                    <div class="form">
+                        <input name="firstemail" id="firstemail" type="text" class="form-control" placeholder="Email">
+                        <a class="btn btn-block btn-primary btn-sub" name="emailbtn" id="emailbtn" title="Click to subscribe">Subscribe</a>
+                    </div>--><!--</form>-->
+              <h4 class="footer-title text-center s-title">
+                Visit Us</h4>
+              <div class="social-links">
+                <a class="fb-lnk" href="https://www.facebook.com/parliamentofreligions" target="_blank"><span>Facebook</span></a> <a class="twt-lnk" href="https://twitter.com/INTERFAITHWORLD" target="_blank"><span>Twitter</span></a> <a class="gp-lnk" href="https://plus.google.com/+ParliamentofreligionsOrg/posts" target="_blank"><span>Google+</span></a> <a class="yt-lnk" href="http://www.youtube.com/user/parliamentofreligion" target="_blank"><span>YouTube</span></a></div>
+              <div class="google-ad">
+                <a href="#"><!--<img src="/images/google_ad_01.jpg" class="img-responsive" alt="google_ad" />--></a></div>
+            </div>
+          </div>
+          <footer class="region region-footer" id="footer">
+            <div id="showdiv">
+              <form accept-charset="UTF-8" action="/parliament/salt-lake-2015/schedule" id="pwr-subscribe-subscribe-form" method="post">
+                <div>
+                  <div id="pwr_subscribe_subscribe_form_body">
+                    <a class="close" id="pwr_subscribe_subscribe_form_close">&times;</a>
+                    <div class="form-item form-type-checkbox form-item-dont-show">
+                      <input class="form-checkbox" id="edit-dont-show" name="dont_show" type="checkbox" value="1" /> <label class="option" for="edit-dont-show">Do not show again on this visit </label></div>
+                    <h4 class="footer-title">
+                      Parliament Newsletter</h4>
+                    <p>
+                      Enter your first name and email to subscribe.</p>
+                    <div class="form-item form-type-textfield form-item-first-name">
+                      <input class="form-control form-text" id="edit-first-name" maxlength="128" name="first_name" placeholder="First name" size="60" type="text" value="" /></div>
+                    <div class="form-item form-type-textfield form-item-email">
+                      <input class="form-control form-text" id="edit-email" maxlength="128" name="email" placeholder="Email" size="60" type="text" value="" /></div>
+                    <input class="btn btn-sub btn-block btn-primary form-submit ajax-processed" id="edit-subscribe-submit" name="op" type="submit" value="Subscribe" /></div>
+                  <input name="form_build_id" type="hidden" value="form-AhtsM_-WYF9RYVQwfV_ab293DKOoUwzgxIRTtuXWcVo" /> <input name="form_id" type="hidden" value="pwr_subscribe_subscribe_form" /></div>
+              </form>
+            </div>
+          </footer>
+        </div>
+      </section>
+    </footer>
+    <script type="text/javascript">
+   jQuery(document).ready(function ($) {
+       $("<p>Login Via</p>").insertBefore("#ulogin");
+
+        var supportX = Math.floor((Math.random() * 3) + 1 );
+        $('#supporter-image-' + supportX).show();
+
+        /* $('#custom-menu-scroll').perfectScrollbar();
+         $('#custom-menu-scroll-1').perfectScrollbar();*/
+        $('#custom-menu-scroll-2').perfectScrollbar();
+        $('#custom-menu-scroll-3').perfectScrollbar();
+    $('#custom-menu-scroll-4').perfectScrollbar();
+    
+    $(".top-down").on("click", function(e) {
+    e.preventDefault();
+            e.stopImmediatePropagation();
+        /*    $('html, body').animate({scrollTop: -500}, 'slow');
+      console.log("test"); */
+      
+      $('html, body').animate({scrollTop: $('.comments__form-title').offset().top}, 1000);
+    });
+    });
+</script>
+    <div id="cboxOverlay" style="display: none;">
+      &nbsp;</div>
+    <div id="colorbox" role="dialog" style="display: none;" tabindex="-1">
+      <div id="cboxWrapper">
+        <div>
+          <div id="cboxTopLeft" style="float: left;">
+            &nbsp;</div>
+          <div id="cboxTopCenter" style="float: left;">
+            &nbsp;</div>
+          <div id="cboxTopRight" style="float: left;">
+            &nbsp;</div>
+        </div>
+        <div style="clear: left;">
+          <div id="cboxMiddleLeft" style="float: left;">
+            &nbsp;</div>
+          <div id="cboxContent" style="float: left;">
+            <div id="cboxTitle" style="float: left;">
+              &nbsp;</div>
+            <div id="cboxCurrent" style="float: left;">
+              &nbsp;</div>
+            <button id="cboxPrevious" type="button"></button><button id="cboxNext" type="button"></button><button id="cboxSlideshow"></button>
+            <div id="cboxLoadingOverlay" style="float: left;">
+              &nbsp;</div>
+            <div id="cboxLoadingGraphic" style="float: left;">
+              &nbsp;</div>
+          </div>
+          <div id="cboxMiddleRight" style="float: left;">
+            &nbsp;</div>
+        </div>
+        <div style="clear: left;">
+          <div id="cboxBottomLeft" style="float: left;">
+            &nbsp;</div>
+          <div id="cboxBottomCenter" style="float: left;">
+            &nbsp;</div>
+          <div id="cboxBottomRight" style="float: left;">
+            &nbsp;</div>
+        </div>
+      </div>
+      <div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;">
+        &nbsp;</div>
+    </div>
+  </body>
+</html>
